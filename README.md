@@ -1,4 +1,4 @@
-# streaming-link
+# stream-link
 Github Bengali, hindi, english, spanish, live channel streaming link 
 
 index.html
