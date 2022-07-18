@@ -22,9 +22,8 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8 TN
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8 MN
 https://www.paypal.me/fundpaynowpg
      </main>
-     <footer>
+     </br>
     <b>Stop</b>
-   </footer>
   </body>
 </html>
 
