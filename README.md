@@ -1,5 +1,5 @@
-# stream-link
-Github Bengali, hindi, english, spanish, live channel streaming link 
+# my-collect-link
+Github bengali, hindi, english, spanish, channel streaming link 
 
 index.html
 <html>
