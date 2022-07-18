@@ -1,7 +1,7 @@
 # my-collect-link
 Github bengali, hindi, english, spanish, channel streaming link 
 
-index.html
+channel.html
 <html>
     <body>
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8 KTV B 
